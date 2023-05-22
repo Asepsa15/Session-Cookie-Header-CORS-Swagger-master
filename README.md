@@ -1,5 +1,5 @@
 
-header authorization = 'Header: Authorization' 'Value: 12345'
+header authorization = 'Header: Authorization' 'Value: Asep'
 
 get all produk = /produk
 get one produk = /produk/:id
